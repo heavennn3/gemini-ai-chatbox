@@ -67,7 +67,7 @@ const AIAssistant = () => {
             <div className="bg-indigo-600/30 backdrop-blur-sm p-4 border-b border-indigo-500/30 flex justify-between items-center">
                 <div className="flex items-center space-x-2">
                     <Sparkles className="text-indigo-300 h-5 w-5" />
-                    <h2 className="text-white font-medium">Gemini Chatbox</h2>
+                    <h2 className="text-white font-medium">AI ChatBox Gemini </h2>
                 </div>
                 <button
                     onClick={clearChat}
